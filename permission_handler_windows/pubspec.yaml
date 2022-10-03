@@ -13,7 +13,12 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  permission_handler_platform_interface: ^3.9.0
+  permission_handler_platform_interface: ^3.7.0
+#    path: ../permission_handler_platform_interface
+#    git:
+#      url: git@github.com:Mattel/flutter-permission-handler.git
+#      path: permission_handler_platform_interface
+#      ref: feature/granular_permission
 
 dev_dependencies:
   flutter_test:
