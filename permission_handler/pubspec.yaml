@@ -26,22 +26,22 @@ dependencies:
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
       path: permission_handler_android
-      ref: feature/granular_permission
+      ref: provisional-internal-fix
   permission_handler_apple: #^9.0.6 ## Remove comment and github dependency when PR in main repo is approved.
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
       path: permission_handler_apple
-      ref: feature/granular_permission
+      ref: provisional-internal-fix
   permission_handler_windows: #^0.1.2 ## Remove comment and github dependency when PR in main repo is approved.
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
       path: permission_handler_windows
-      ref: feature/granular_permission
+      ref: provisional-internal-fix
   permission_handler_platform_interface: #^3.9.0 ## Remove comment and github dependency when PR in main repo is approved.
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
       path: permission_handler_platform_interface
-      ref: feature/granular_permission
+      ref: provisional-internal-fix
 
 dev_dependencies:
   flutter_lints: ^1.0.4
