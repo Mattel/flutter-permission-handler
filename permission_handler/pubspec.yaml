@@ -28,20 +28,20 @@ dependencies:
       git:
         url: git@github.com:Mattel/flutter-permission-handler.git
         path: permission_handler_android
-        ref: feature/granular_permission
-  permission_handler_apple: #^9.0.6
+        ref: temp-fix
+  permission_handler_apple: #^9.0.4
 #    path: ../permission_handler_apple
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
       path: permission_handler_apple
-      ref: feature/granular_permission
-  permission_handler_windows: #^0.1.2
+      ref: temp-fix
+  permission_handler_windows: #^0.1.0
 #    path: ../permission_handler_windows
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
       path: permission_handler_windows
-      ref: feature/granular_permission
-  permission_handler_platform_interface: #^3.9.0
+      ref: temp-fix
+  permission_handler_platform_interface: #^3.7.0
 #    path: ../permission_handler_platform_interface
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
