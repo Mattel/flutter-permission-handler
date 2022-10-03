@@ -18,7 +18,7 @@ dependencies:
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
       path: permission_handler_platform_interface
-      ref: temp-fix
+      ref: feature/granular_permission
 
 dev_dependencies:
   flutter_test:
