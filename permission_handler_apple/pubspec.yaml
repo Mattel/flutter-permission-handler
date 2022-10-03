@@ -18,7 +18,7 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  permission_handler_platform_interface: #^3.9.0
+  permission_handler_platform_interface: #^3.9.0 ## Remove comment and github/path dependency when PR in main repo is approved.
 #    path: ../permission_handler_platform_interface
     git:
       url: git@github.com:Mattel/flutter-permission-handler.git
